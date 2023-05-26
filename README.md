@@ -5,13 +5,12 @@
 <br/>
 
 #### More about me 😉:
-
-- 🔭 I’m currently working in reasearch regarding the analysis, evaluation and optimization of electric transmission and distribution grids with respect to the deployment of renewable energy sources, energy communities and electricity storage in Europe.
-- 🎓 I'm currently writting my thesis on the *"Use of Artificial Intelligence to Forecast Constraints in Energy Systems"* .
-- 🌱 I’m currently learning Julia.
+- 🧪 Currently building A/B tests platform for Peacock and SkyShowtime streaming platforms.
+- 🌱 I’m currently learning Kotlin.
 - 👯 I’m currently collaborating on a cool **Web Dev** project that will help a portuguese Karate association to manage their personal data, events and logistics. Tech Stack: Vue.js + Node.js + Firebase.
+- 🔭 Latest reasearch regarding the analysis, evaluation and optimization of electric transmission and distribution grids with respect to the deployment of renewable energy sources, energy communities and electricity storage in Europe.
+- 🎓 Finished my thesis on the *"Use of Artificial Intelligence to Forecast Constraints in Energy Systems"* .
 - ⚡ Fun fact: I love, but I mean LOVE ❤️, sparring sessions of any kind 🥊🤼‍♂️! 
-
 <br/>
 <br/>
 
@@ -32,6 +31,7 @@
 <a href="http://www.pandapower.org/" target="_blank"> <img src="http://www.pandapower.org/images/pp.svg" alt="pandapower" height='42px'/> </a>
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" height='42px'/></a>
 <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" alt="vue" height='42px'/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1024px-Kotlin_Icon.svg.png?20171012085709" alt="kotlin" height='42px'/> </a>
 
 
 
