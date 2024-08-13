@@ -7,10 +7,9 @@
 #### More about me 😉:
 - 🧪 Currently building A/B tests platform for Peacock and SkyShowtime streaming platforms.
 - 🌱 I’m currently learning Kotlin.
-- 👯 I’m currently collaborating on a cool **Web Dev** project that will help a portuguese Karate association to manage their personal data, events and logistics. Tech Stack: Vue.js + Node.js + Firebase.
 - 🔭 Latest reasearch regarding the analysis, evaluation and optimization of electric transmission and distribution grids with respect to the deployment of renewable energy sources, energy communities and electricity storage in Europe.
 - 🎓 Finished my thesis on the *"Use of Artificial Intelligence to Forecast Constraints in Energy Systems"* .
-- ⚡ Fun fact: I love, but I mean LOVE ❤️, sparring sessions of any kind 🥊🤼‍♂️! 
+- ⚡ Fun fact: I love sparring sessions of any kind 🥊🤼‍♂️! 
 <br/>
 <br/>
 
